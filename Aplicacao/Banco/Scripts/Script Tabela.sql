@@ -1,0 +1,7 @@
+CREATE TABLE LOGDOWNLOAD (
+    CODIGO     INTEGER       PRIMARY KEY AUTOINCREMENT
+                             NOT NULL,
+    URL        VARCHAR (600) NOT NULL,
+    DATAINICIO DATE          NOT NULL,
+    DATAFIM    DATE
+);

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/12 10:47:11.000.679,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/12 10:47:30.000.812,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\SoftPlan\Aplicacao\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2020/09/12 10:47:30.000.812,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\SoftPlan\Aplicacao\uFrmPrincipal.pas</Transaction>
+    <Transaction>2020/09/12 10:47:39.000.436,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\SoftPlan\Aplicacao\SoftPlan.dproj</Transaction>
+    <Transaction>2020/09/13 08:25:19.000.678,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/13 08:25:52.000.816,D:\SoftPlan\Aplicacao\Unit1.pas=D:\SoftPlan\Aplicacao\uTThreadSoftPlan.pas</Transaction>
+    <Transaction>2020/09/13 08:27:45.000.208,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 18:49:19.723,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 18:49:49.309,D:\SoftPlan\Aplicacao\DataModules\uDM.dfm=D:\SoftPlan\Aplicacao\Unit1.dfm</Transaction>
+    <Transaction>2020/09/14 18:49:49.309,D:\SoftPlan\Aplicacao\DataModules\uDM.pas=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 19:00:39.342,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 19:06:13.694,D:\SoftPlan\Aplicacao\Class\uTLogDownload.pas=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 19:40:56.743,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 19:41:10.904,D:\SoftPlan\Aplicacao\Class\uTController.pas=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 20:15:18.847,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 20:15:34.214,D:\SoftPlan\Aplicacao\Class\uTPadrao.pas=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 20:48:54.364,D:\SoftPlan\Aplicacao\Class\uTPadrao.pas=</Transaction>
+    <Transaction>2020/09/14 20:50:15.960,=D:\SoftPlan\Aplicacao\Class\uTPadrao.pas</Transaction>
+    <Transaction>2020/09/14 23:28:50.635,=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 23:29:07.614,D:\SoftPlan\Aplicacao\uFrmListaDiversos.dfm=D:\SoftPlan\Aplicacao\Unit1.dfm</Transaction>
+    <Transaction>2020/09/14 23:29:07.614,D:\SoftPlan\Aplicacao\uFrmListaDiversos.pas=D:\SoftPlan\Aplicacao\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
