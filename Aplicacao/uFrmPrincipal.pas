@@ -1,3 +1,9 @@
+{Autor - Helton Lizandro
+ Email - Heltonlizandro@gmail.com
+ Data de Criação: 16/09/2020
+ Descrição: Procedimento simples utilizado para efetuar downloads de arquivos
+            passando apenas o link}
+
 unit uFrmPrincipal;
 
 interface

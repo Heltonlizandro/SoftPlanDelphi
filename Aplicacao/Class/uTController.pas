@@ -12,7 +12,6 @@ type
       procedure Inserir(Objeto: Padrao; vCampos : Array of String; vValores : Array of Variant);
       procedure Update(Objeto: Padrao);
       procedure Delete(Objeto: Padrao);
-
   end;
 
 implementation
@@ -20,12 +19,6 @@ implementation
 { Controlerr }
 
 uses uTLogDownload, System.TypInfo, uDM, System.SysUtils, Vcl.Dialogs;
-
-
-procedure TControle.Delete(Objeto: Padrao);
-begin
-
-end;
 
 procedure TControle.Inserir(Objeto: Padrao; vCampos : Array of String; vValores : Array of Variant);
 var
@@ -67,10 +60,14 @@ begin
     on E:Exception do
       ShowMessage('Erro na Inclusão do Download: '+E.Message);
   end;
-
 end;
 
 procedure TControle.Update(Objeto: Padrao);
+begin
+
+end;
+
+procedure TControle.Delete(Objeto: Padrao);
 begin
 
 end;
