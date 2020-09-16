@@ -1,4 +1,4 @@
-[![N|Solid](https://s3-sa-east-1.amazonaws.com/prod-jobsite-files.kenoby.com/uploads/softplan-1523912238-logo-softplan-rgb-versao-cor-oficialpng.png)](https://nodesource.com/products/nsolid)
+# SoftPlan
 
 # Projeto de Downloads
 
